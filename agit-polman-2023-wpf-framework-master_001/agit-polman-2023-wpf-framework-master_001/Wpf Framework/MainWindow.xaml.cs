@@ -33,5 +33,11 @@ namespace Wpf_Framework
             MessageBox.Show("Nama :  "+Nama_Mahasiswa+ "\n" +
                 "Program Studi : " +Program_Studi);
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            TB_Nama.Text = "";
+            TB_Prodi.Text = "";
+        }
     }
 }

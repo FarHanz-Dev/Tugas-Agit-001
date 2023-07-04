@@ -12,6 +12,8 @@
         <Label Content="Nama" HorizontalAlignment="Left" Margin="92,133,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.067,0.51"/>
         <TextBox x:Name="TB_Prodi" HorizontalAlignment="Left" Margin="153,168,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="342"/>
         <Label Content="Prodi" HorizontalAlignment="Left" Margin="92,164,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.067,0.51"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="376,316,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <Label Content="Halo" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 
     </Grid>
 </Window>
